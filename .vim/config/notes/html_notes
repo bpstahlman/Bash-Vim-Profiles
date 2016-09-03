@@ -1,0 +1,26 @@
+Sections
+--------------------------------------------
+Header  : Headline for pages/sections
+Footer  : Copyright, Who wrote the blog post, Links to related information
+Nav     : Navigation bar (Home, Contact, About)
+Aside   : Sidebar
+Article : Content of blog
+
+Text
+--------------------------------------------
+Italics      : <em>
+Bold         : <strong>
+Highlight    : <mark>
+Smaller font : <small>
+Acronyms     : <abbr title="What the heck"> WTH </abbr>
+Links        : <a href="benbasuni.github.io"> My Website </a>
+
+Interactive
+--------------------------------------------
+Expand/Collapse : <details>
+                        <summary>The header goes here</summary>
+                           <p>Content here is what expands and collapses</p>
+                        </summary>
+                  </details>
+
+

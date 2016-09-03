@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/benbasuni/.task'
+let g:netrw_dirhist_2='/Users/benbasuni/Documents/library/coding/rails_projects/cs59/business2/.git'
+let g:netrw_dirhist_3='/Users/zenith/Desktop/Do/Plays/first'
+let g:netrw_dirhist_4='/Users/zenith/.vim'
+let g:netrw_dirhist_5='/Users/zenith/.vim/bundle/Gist.vim'
